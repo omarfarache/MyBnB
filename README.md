@@ -2,21 +2,21 @@
 Book and Host Accommodation
 
 after clone the repository : 
-1- create .env in server folder and you should have :
-PORT=
-DB_USER=
-DB_USER_PASSWORD=
-DB_CLUSTER=
-G_CLIENT_ID= " this for google geolocator Api ID"
-G_CLIENT_SECRET=
-PUBLIC_URL=
-SECRET=
-NODE_ENV=
-G_GEOCODE_KEY=
-S_SECRET_KEY=
-CLOUDINARY_KEY=
-CLOUDINARY_SECRET=
-CLOUDINARY_NAME=
+1- create .env in server folder and you should have :<br>
+PORT=<br>
+DB_USER=<br>
+DB_USER_PASSWORD=<br>
+DB_CLUSTER=<br>
+G_CLIENT_ID= " this for google geolocator Api ID"<br>
+G_CLIENT_SECRET=<br>
+PUBLIC_URL=<br>
+SECRET=<br>
+NODE_ENV=<br>
+G_GEOCODE_KEY=<br>
+S_SECRET_KEY=<br>
+CLOUDINARY_KEY=<br>
+CLOUDINARY_SECRET=<br>
+CLOUDINARY_NAME=<br>
 
 
 2 - run " npm i " 
