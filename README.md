@@ -1,4 +1,5 @@
 # MyBnB
+Using : <h2> ReactJs , NodeJs , GraphQL , Apollo , Stripe , Cloudinary </h2>
 Book and Host Accommodation
 
 after clone the repository : 
@@ -22,3 +23,4 @@ CLOUDINARY_NAME=<br>
 2 - run " npm i " 
 
 3- run " npm start " and start use the app 
+
