@@ -1,5 +1,5 @@
 # MyBnB
-Using : <h2> ReactJs , NodeJs , MongoDB , GraphQL , Apollo , Stripe , Cloudinary </h2>
+Using : <h2> ReactJs , NodeJs , MongoDB , GraphQL , Apollo , Stripe , Google Geolocator , Cloudinary </h2>
 Book and Host Accommodation
 
 after clone the repository : 
